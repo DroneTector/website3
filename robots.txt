@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://www.dronetector.com/sitemap-index.xml
+Sitemap: https://my-site-58dcf7a3.ploy.build/sitemap-index.xml
